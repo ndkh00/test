@@ -26,7 +26,7 @@ st.download_button(
 )
 
 # 체크 박스
-agree = st.checkbox('동의 하십니까?')
+agree = st.checkbox('동의 하십니까???')
 
 if agree:
     st.write('동의 해주셔서 감사합니다 :100:')
