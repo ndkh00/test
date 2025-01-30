@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # 제목
-st.title("OT Reporting Tool")
+st.title("OT Reporting Tool 2")
 
 # 파일명
 FILE_NAME = "work_log.csv"
